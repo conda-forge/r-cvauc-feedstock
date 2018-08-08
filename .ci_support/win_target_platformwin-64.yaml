@@ -1,0 +1,9 @@
+cran_mirror:
+- https://cran.r-project.org
+pin_run_as_build:
+  r-base:
+    max_pin: x.x.x
+r_base:
+- 3.4.1
+target_platform:
+- win-64
